@@ -1,18 +1,1 @@
-﻿{
-    "version":  1,
-    "baseUrl":  "https://jkanime.net",
-    "languages":  [
-                      "es",
-                      "es"
-                  ],
-    "name":  "JKAnime",
-    "description":  "Anime en español latino. Portado desde Storm Extensions.",
-    "authors":  [
-                    "Stormunblessed",
-                    "Portado por SkyStream"
-                ],
-    "categories":  [
-                       "Anime"
-                   ],
-    "packageName":  "com.stormunblessed.skystream.jkanime"
-}
+﻿{"version":1,"baseUrl":"https://jkanime.net","languages":["es","es"],"name":"JKAnime","description":"Anime en español latino","authors":["Stormunblessed","Portado por SkyStream"],"categories":["Anime"],"packageName":"com.stormunblessed.skystream.jkanime"}
