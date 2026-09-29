@@ -1,0 +1,20 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://tioplus.app",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "Pelisplus4K",
+    "description":  "Movies y Series y Anime en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Series",
+                       "Anime"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.pelisplus4k"
+}

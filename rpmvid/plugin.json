@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://cubeembed.rpmvid.com",
+    "languages":  [
+                      "es",
+                      "es"
+                  ],
+    "name":  "Rpmvid",
+    "description":  "Movies y Series en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Series"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.rpmvid"
+}

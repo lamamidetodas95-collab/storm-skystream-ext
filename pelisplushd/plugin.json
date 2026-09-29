@@ -1,0 +1,10 @@
+﻿{
+  "packageName": "com.stormunblessed.skystream.pelisplushd",
+  "name": "PelisplusHD",
+  "version": 1,
+  "baseUrl": "https://pelisplushd.bz",
+  "description": "Películas, series, anime y doramas en HD español latino",
+  "authors": ["Stormunblessed", "Portado por SkyStream"],
+  "languages": ["es", "mx"],
+  "categories": ["Movies", "Series", "Anime"]
+}

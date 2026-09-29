@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://cinehdplus.org",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "CineHdPlus",
+    "description":  "Movies y Series en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Series"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.cinehdplus"
+}

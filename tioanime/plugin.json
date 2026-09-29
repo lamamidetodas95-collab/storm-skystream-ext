@@ -1,0 +1,18 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://tioanime.com",
+    "languages":  [
+                      "es",
+                      "es"
+                  ],
+    "name":  "TioAnime",
+    "description":  "Anime en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Anime"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.tioanime"
+}

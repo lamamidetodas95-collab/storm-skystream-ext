@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://www.anime-jl.net",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "AnimeJL",
+    "description":  "Movies y Anime en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Anime"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.animejl"
+}

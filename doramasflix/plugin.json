@@ -1,0 +1,18 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://doramasflix.co",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "Doramasflix",
+    "description":  "Movies en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.doramasflix"
+}

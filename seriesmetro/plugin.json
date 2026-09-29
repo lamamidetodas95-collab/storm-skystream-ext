@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://www3.seriesmetro.net",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "SeriesMetro",
+    "description":  "Movies y Series en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Series"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.seriesmetro"
+}

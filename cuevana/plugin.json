@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "baseUrl":  "https://wv3.cuevana3.eu",
+    "languages":  [
+                      "es",
+                      "mx"
+                  ],
+    "name":  "Cuevana",
+    "description":  "Movies y Series en español latino. Portado desde Storm Extensions.",
+    "authors":  [
+                    "Stormunblessed",
+                    "Portado por SkyStream"
+                ],
+    "categories":  [
+                       "Movies",
+                       "Series"
+                   ],
+    "packageName":  "com.stormunblessed.skystream.cuevana"
+}

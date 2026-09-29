@@ -1,0 +1,7 @@
+{
+  "name": "Storm Extensions (SkyStream)",
+  "packageName": "com.stormunblessed.skystream.repo",
+  "manifestVersion": 1,
+  "pluginLists": ["plugins.json"],
+  "description": "34 providers españoles/latinos portados de CloudStream Storm Extensions a SkyStream. Incluye Cuevana, PelisPlus, Cinecalidad, JKAnime, AnimeFlv y más."
+}
