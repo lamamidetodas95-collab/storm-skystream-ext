@@ -3,182 +3,182 @@
         "pluginJson":  "cuevana/plugin.json",
         "url":  "cuevana/plugin.js",
         "packageName":  "com.stormunblessed.skystream.cuevana",
-        "version":  1,
+        "version":  "1",
         "name":  "Cuevana"
     },
     {
         "pluginJson":  "pelisplushd/plugin.json",
         "url":  "pelisplushd/plugin.js",
         "packageName":  "com.stormunblessed.skystream.pelisplushd",
-        "version":  1,
+        "version":  "1",
         "name":  "PelisplusHD"
     },
     {
         "pluginJson":  "cinecalidad/plugin.json",
         "url":  "cinecalidad/plugin.js",
         "packageName":  "com.stormunblessed.skystream.cinecalidad",
-        "version":  1,
+        "version":  "1",
         "name":  "Cinecalidad"
     },
     {
         "pluginJson":  "allcalidad/plugin.json",
         "url":  "allcalidad/plugin.js",
         "packageName":  "com.stormunblessed.skystream.allcalidad",
-        "version":  1,
+        "version":  "1",
         "name":  "AllCalidad"
     },
     {
         "pluginJson":  "animeav1/plugin.json",
         "url":  "animeav1/plugin.js",
         "packageName":  "com.stormunblessed.skystream.animeav1",
-        "version":  1,
+        "version":  "1",
         "name":  "AnimeAV1"
     },
     {
         "pluginJson":  "animeflv.net/plugin.json",
         "url":  "animeflv.net/plugin.js",
         "packageName":  "com.stormunblessed.skystream.animeflv.net",
-        "version":  1,
+        "version":  "1",
         "name":  "Animeflv.net"
     },
     {
         "pluginJson":  "animejl/plugin.json",
         "url":  "animejl/plugin.js",
         "packageName":  "com.stormunblessed.skystream.animejl",
-        "version":  1,
+        "version":  "1",
         "name":  "AnimeJL"
     },
     {
         "pluginJson":  "areadocumental/plugin.json",
         "url":  "areadocumental/plugin.js",
         "packageName":  "com.stormunblessed.skystream.areadocumental",
-        "version":  1,
+        "version":  "1",
         "name":  "Area Documental"
     },
     {
         "pluginJson":  "cablevisionhd/plugin.json",
         "url":  "cablevisionhd/plugin.js",
         "packageName":  "com.stormunblessed.skystream.cablevisionhd",
-        "version":  1,
+        "version":  "1",
         "name":  "CablevisionHd"
     },
     {
         "pluginJson":  "cinehdplus/plugin.json",
         "url":  "cinehdplus/plugin.js",
         "packageName":  "com.stormunblessed.skystream.cinehdplus",
-        "version":  1,
+        "version":  "1",
         "name":  "CineHdPlus"
     },
     {
         "pluginJson":  "documaniatv/plugin.json",
         "url":  "documaniatv/plugin.js",
         "packageName":  "com.stormunblessed.skystream.documaniatv",
-        "version":  1,
+        "version":  "1",
         "name":  "DocumaniaTV"
     },
     {
         "pluginJson":  "doramasflix/plugin.json",
         "url":  "doramasflix/plugin.js",
         "packageName":  "com.stormunblessed.skystream.doramasflix",
-        "version":  1,
+        "version":  "1",
         "name":  "Doramasflix"
     },
     {
         "pluginJson":  "doramasyt/plugin.json",
         "url":  "doramasyt/plugin.js",
         "packageName":  "com.stormunblessed.skystream.doramasyt",
-        "version":  1,
+        "version":  "1",
         "name":  "DoramasYT"
     },
     {
         "pluginJson":  "jkanime/plugin.json",
         "url":  "jkanime/plugin.js",
         "packageName":  "com.stormunblessed.skystream.jkanime",
-        "version":  1,
+        "version":  "1",
         "name":  "JKAnime"
     },
     {
         "pluginJson":  "lamovie/plugin.json",
         "url":  "lamovie/plugin.js",
         "packageName":  "com.stormunblessed.skystream.lamovie",
-        "version":  1,
+        "version":  "1",
         "name":  "LaMovie"
     },
     {
         "pluginJson":  "latanime/plugin.json",
         "url":  "latanime/plugin.js",
         "packageName":  "com.stormunblessed.skystream.latanime",
-        "version":  1,
+        "version":  "1",
         "name":  "LatAnime"
     },
     {
         "pluginJson":  "monoschinos/plugin.json",
         "url":  "monoschinos/plugin.js",
         "packageName":  "com.stormunblessed.skystream.monoschinos",
-        "version":  1,
+        "version":  "1",
         "name":  "Monoschinos"
     },
     {
         "pluginJson":  "mundodonghua/plugin.json",
         "url":  "mundodonghua/plugin.js",
         "packageName":  "com.stormunblessed.skystream.mundodonghua",
-        "version":  1,
+        "version":  "1",
         "name":  "MundoDonghua"
     },
     {
         "pluginJson":  "peliculasflix/plugin.json",
         "url":  "peliculasflix/plugin.js",
         "packageName":  "com.stormunblessed.skystream.peliculasflix",
-        "version":  1,
+        "version":  "1",
         "name":  "PeliculasFlix"
     },
     {
         "pluginJson":  "pelispedia/plugin.json",
         "url":  "pelispedia/plugin.js",
         "packageName":  "com.stormunblessed.skystream.pelispedia",
-        "version":  1,
+        "version":  "1",
         "name":  "Pelispedia"
     },
     {
         "pluginJson":  "pelisplus4k/plugin.json",
         "url":  "pelisplus4k/plugin.js",
         "packageName":  "com.stormunblessed.skystream.pelisplus4k",
-        "version":  1,
+        "version":  "1",
         "name":  "Pelisplus4K"
     },
     {
         "pluginJson":  "reydonghua/plugin.json",
         "url":  "reydonghua/plugin.js",
         "packageName":  "com.stormunblessed.skystream.reydonghua",
-        "version":  1,
+        "version":  "1",
         "name":  "ReyDonghua"
     },
     {
         "pluginJson":  "rpmvid/plugin.json",
         "url":  "rpmvid/plugin.js",
         "packageName":  "com.stormunblessed.skystream.rpmvid",
-        "version":  1,
+        "version":  "1",
         "name":  "Rpmvid"
     },
     {
         "pluginJson":  "seriesflix/plugin.json",
         "url":  "seriesflix/plugin.js",
         "packageName":  "com.stormunblessed.skystream.seriesflix",
-        "version":  1,
+        "version":  "1",
         "name":  "Seriesflix"
     },
     {
         "pluginJson":  "seriesmetro/plugin.json",
         "url":  "seriesmetro/plugin.js",
         "packageName":  "com.stormunblessed.skystream.seriesmetro",
-        "version":  1,
+        "version":  "1",
         "name":  "SeriesMetro"
     },
     {
         "pluginJson":  "tioanime/plugin.json",
         "url":  "tioanime/plugin.js",
         "packageName":  "com.stormunblessed.skystream.tioanime",
-        "version":  1,
+        "version":  "1",
         "name":  "TioAnime"
     }
 ]

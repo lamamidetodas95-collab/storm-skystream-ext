@@ -1,1 +1,1 @@
-﻿{"version":1,"baseUrl":"https://wv3.cuevana3.eu","languages":["es","mx"],"name":"Cuevana","description":"Películas y series en español latino","authors":["Stormunblessed","Portado por SkyStream"],"categories":["Movies","Series"],"packageName":"com.stormunblessed.skystream.cuevana"}
+﻿{"version":"1","baseUrl":"https://wv3.cuevana3.eu","languages":["es","mx"],"name":"Cuevana","description":"Películas y series en español latino","authors":["Stormunblessed","Portado por SkyStream"],"categories":["Movies","Series"],"packageName":"com.stormunblessed.skystream.cuevana"}
